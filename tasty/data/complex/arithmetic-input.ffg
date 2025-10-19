@@ -1,4 +1,4 @@
-# This test exercises all of the various arithmetic permutations to make sure
+# This test exercises all of the various arithmetic operations to make sure
 # that they work without type annotations and produce a result of the desired
 # output type
 { add0: 2 + 2
